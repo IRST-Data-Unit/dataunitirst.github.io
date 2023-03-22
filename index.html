@@ -5,31 +5,18 @@
   <script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>
   <script>
     window.onload = function () {
-      document
-        .querySelector(".rotate-button")
-        .addEventListener("click", function () {
-          // here you can change also a-scene or a-entity properties, like
-          // changing your 3D model source, size, position and so on
-          // or you can just open links, trigger actions...
-          //alert("Hi there!");
-		  // With three.js
+      document.querySelector(".rotate-x-button").addEventListener("click", function () {
 		  var el = document.querySelector('#testEntity');
-
-		  el.object3D.rotation.x = el.object3D.rotation.x +1
-		  
-		  /*
-		  el.object3D.rotation.set(
-			THREE.MathUtils.degToRad(15),
-			THREE.MathUtils.degToRad(30),
-			THREE.MathUtils.degToRad(90)
-		  );
-		  el.object3D.rotation.x += Math.PI;
-
-		  // With .setAttribute (less recommended).
-		  el.setAttribute('rotation', {x: 15, y: 30, z: 90});
-		  */
-		  
-        });
+		  el.object3D.rotation.x = el.object3D.rotation.x + 1/360
+      });
+     document.querySelector(".rotate-y-button").addEventListener("click", function () {
+		  var el = document.querySelector('#testEntity');
+		  el.object3D.rotation.y = el.object3D.rotation.y + 1/360
+      });
+     document.querySelector(".rotate-z-button").addEventListener("click", function () {
+		  var el = document.querySelector('#testEntity');
+		  el.object3D.rotation.z = el.object3D.rotation.z + 1/360
+      });
 		
 	  
     };
@@ -59,15 +46,17 @@
   </style>
   <body style="margin : 0px; overflow: hidden;">
     <div class="buttons">
-      <button class="rotate-button">Rotate</button>
+      <button class="rotate-x-button">Rotate x</button>
+      <button class="rotate-y-button">Rotate y</button>
+      <button class="rotate-z-button">Rotate z</button>
     </div>
     <a-scene embedded arjs>
       <a-marker preset="hiro">
         <a-entity
 		  id="testEntity"
           position="0 0 0"
-          scale="0.05 0.05 0.05"
-		  rotation="60 0 0"
+          scale="0.1 0.1 0.1"
+		  rotation="0 0 0"
           gltf-model="assets/magnemite/scene.gltf"
         ></a-entity>
       </a-marker>
