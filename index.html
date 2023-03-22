@@ -51,17 +51,18 @@
       <button class="rotate-z-button">Rotate z</button>
     </div>
     <a-scene embedded arjs>
-      <a-marker preset="hiro">
-        <a-entity
-		  id="testEntity"
-          position="0 0 0"
-          scale="10 10 10"
-		  rotation="0 0 0"
-          gltf-model="assets/prof/scene.gltf"
+	  <a-marker preset="hiro">
+		<a-entity id="marker" position="0 0 0"></a-entity>
+		<a-entity id="testEntity" 
+		  gltf-model="assets/prof/scene.gltf"
+		  scale="10 10 10"
+		  position="0 0 0"
 		  look-at="[camera]"
-        ></a-entity>
-      </a-marker>
-      <a-entity camera></a-entity>
-    </a-scene>
+		  position="0 0 0"
+		  animation__pos="property: position; to: 0 0 -10; dur: 1000; easing: linear; loop: true;">
+		</a-entity>
+	  </a-marker>
+	  <a-entity camera></a-entity>
+	</a-scene>
   </body>
 </html>
