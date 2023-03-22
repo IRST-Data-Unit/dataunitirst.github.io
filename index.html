@@ -15,6 +15,9 @@
 		  // With three.js
 		  var el = document.querySelector('#testEntity');
 
+		  el.object3D.rotation.x = el.object3D.rotation.x +1
+		  
+		  /*
 		  el.object3D.rotation.set(
 			THREE.MathUtils.degToRad(15),
 			THREE.MathUtils.degToRad(30),
@@ -24,7 +27,7 @@
 
 		  // With .setAttribute (less recommended).
 		  el.setAttribute('rotation', {x: 15, y: 30, z: 90});
-		  
+		  */
 		  
         });
 		
