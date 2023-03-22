@@ -56,13 +56,13 @@
 		<a-entity id="testEntity" 
 		  gltf-model="assets/prof/scene.gltf"
 		  scale="10 10 10"
-		  position="0 0 0"
+		  position="-4 0 0"
 		  look-at="[camera]"
 		  position="0 0 0"
-		  animation__pos="property: position; to: 0 0 -10; dur: 1000; easing: linear; loop: true;">
+		  animation__pos="property: position; to: 4 0 0; dur: 1000; easing: linear; loop: true;">
 		</a-entity>
 	  </a-marker>
-	  <a-entity camera></a-entity>
+	  <a-entity camera position="100 0 0"></a-entity>
 	</a-scene>
   </body>
 </html>
