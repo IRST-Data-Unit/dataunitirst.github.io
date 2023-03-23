@@ -50,12 +50,13 @@
       <button class="rotate-y-button">Rotate y</button>
       <button class="rotate-z-button">Rotate z</button>
     </div>
-    <a-scene embedded arjs='sourceType: webcam; sourceWidth:1280; sourceHeight:960; displayWidth: 1280; displayHeight: 960;'>
+    <a-scene physics="patternRatio: 0.75">
 	  <a-marker preset="hiro">
-		<a-scene
-		  	scale="1 1 1"
-			position="0 0 0"
-			rotation="0 0 0">>
+		  <!--a-box position="0 0 0" rotation="0 45 0" color="#4CC3D9" opacity='0.5'></a-box-->
+		  <!--a-sphere position="0 0 0" radius="1.25" color="#EF2D5E" opacity='0.5'></a-sphere-->
+		  <!--a-cylinder position="0 0 0" radius="0.5" height="1.5" color="#FFC65D" opacity='0.5'></a-cylinder-->
+		  <a-plane position="0 0 0" rotation="-90 0 0" width="4" height="4" color="#7BC8A4" opacity='0.5'></a-plane>
+		  <!--a-sky color="#ECECEC" opacity='0.5'></a-sky-->
 		  <a-entity id="testEntity" 
 			  gltf-model="https://nicolagentiliatirst.github.io/nicolagentiliirst.github.io/assets/prof/scene.gltf"
 			  scale="1 1 1"
@@ -64,11 +65,10 @@
 			  >
 			</a-entity>
 			<a-entity text="value: RAW DATA NOW!;"
-			  scale="1 1 1"
+			  scale="10 10 10"
 			  position="0 0 0"
 			  rotation="0 0 0">
 			</a-entity>
-		</a-scene>
 	  </a-marker>
 	  <a-entity camera></a-entity>
 	</a-scene>
