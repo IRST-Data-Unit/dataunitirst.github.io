@@ -5,11 +5,11 @@ def findIndexes(folder, content = ''):
         path = root.split(os.sep)
         for name in files:
             if name == 'index.md':
-                if os.path.basename(root) != '..':
-                    content += "* [" + os.path.basename(root) + "](" + os.path.join(root, name) + ")\n"
+                if os.path.basename(root) != '.':
+                    content += "* [" + os.path.basename(root) + "](" + os.path.join(root,name) + ")\n"
     return content
 
-content = findIndexes("nicolagentiliirst.github.io\\..")
+content = findIndexes(".")
 
 print("CONTENT:")
 print(content)
