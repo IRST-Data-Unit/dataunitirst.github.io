@@ -6,7 +6,7 @@ def findIndexes(folder, content = ''):
         for name in files:
             if name == 'index.md':
                 if os.path.basename(root) != '.':
-                    content += "* [" + os.path.basename(root) + "](" + os.path.join(root,name) + ")\n"
+                    content += "* [" + os.path.basename(root) + "](" + os.path.join(root) + ")\n"
     return content
 
 content = findIndexes(".")

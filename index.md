@@ -1,2 +1,2 @@
-* [Digital Health](.\Digital Health\index.md)
-* [Prompting](.\LLM\Prompting\index.md)
+* [Digital Health](.\Digital Health)
+* [Prompting](.\LLM\Prompting)
