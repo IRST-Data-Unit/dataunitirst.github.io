@@ -1,8 +1,13 @@
-* [AugmentedRealityTest](.\AugmentedRealityTest)
-* [Business Models](.\Business Models)
-* Digital Health
-  * [Synthetic Data](.\Digital Health\Synthetic Data)
-* LLM
-  * [Prompting](.\LLM\Prompting)
-* [Service Design](.\Service Design)
-* [Strategy](.\Strategy)
+ * [AugmentedRealityTest](.\AugmentedRealityTest)
+ * [Business Models](.\Business Models)
+ * [Digital Health](.\Digital Health)
+   * [Data anonymization](.\Digital Health\Data anonymization)
+   * [Data Platform](.\Digital Health\Data Platform)
+   * Digital Transformation
+     * [DT Framework](.\Digital Health\Digital Transformation\DT Framework)
+   * [Knowledge Graph](.\Digital Health\Knowledge Graph)
+   * [Synthetic Data](.\Digital Health\Synthetic Data)
+ * [LLM](.\LLM)
+   * [Prompting](.\LLM\Prompting)
+ * [Service Design](.\Service Design)
+ * [Strategy](.\Strategy)
