@@ -3,7 +3,7 @@ import os
 def findIndexes(folder, indent=1, content = ''):
 
     indentChar = ' '
-    exclusion = ['.', '..', 'venv', '.git', '.idea','src']
+    exclusion = ['.', '..', 'venv', '.git', '.idea', 'src']
 
     ind = {}
     for d in filter(os.path.isdir,[os.path.join(folder,x) for x in os.listdir(folder)]):
