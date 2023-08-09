@@ -1,13 +1,17 @@
-title: digital + health
+title: digital + health = data
 subtitle: collection of references, notes, and knowledge
 
 # Author/Organization info to be displayed in the templates
+author:
+  name: Alice Andalò
+  url:
+
 author:
   name: Nicola Gentili
   url:
 
 author:
-  name: Nicola Gentili
+  name: Martina Cavallucci
   url:
 
 logourl: /assets/img/logo.png

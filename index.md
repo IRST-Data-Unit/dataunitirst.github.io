@@ -1,6 +1,7 @@
  * academy
+ * demo
+   * [AugmentedRealityTest](.\demo\AugmentedRealityTest)
  * library
-   * [AugmentedRealityTest](.\library\AugmentedRealityTest)
    * [Business Models](.\library\Business Models)
    * [Decision Support System](.\library\Decision Support System)
    * [Digital Health](.\library\Digital Health)
@@ -10,7 +11,7 @@
        * [DT Framework](.\library\Digital Health\Digital Transformation\DT Framework)
      * [Knowledge Graph](.\library\Digital Health\Knowledge Graph)
      * [Synthetic Data](.\library\Digital Health\Synthetic Data)
-   * [LLM](.\library\LLM)
-     * [Prompting](.\library\LLM\Prompting)
+   * [Large Language Model (LLM)](.\library\Large Language Model (LLM))
+     * [Prompting](.\library\Large Language Model (LLM)\Prompting)
    * [Service Design](.\library\Service Design)
    * [Strategy](.\library\Strategy)
