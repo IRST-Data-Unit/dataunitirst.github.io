@@ -1,8 +1,4 @@
- * .github
-   * workflows
  * academy
- * assets
-   * img
  * library
    * [AugmentedRealityTest](.\library\AugmentedRealityTest)
    * [Business Models](.\library\Business Models)
