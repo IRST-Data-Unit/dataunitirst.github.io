@@ -1,13 +1,15 @@
  * academy
    * Case Study
    * Theory
+     * [AIForClinicalTrial](.\academy\Theory\AIForClinicalTrial)
+     * [Cartella Clinica Elettronica e AI](.\academy\Theory\Cartella Clinica Elettronica e AI)
      * [Medical LLM](.\academy\Theory\Medical LLM)
  * demo
    * [AugmentedRealityTest](.\demo\AugmentedRealityTest)
  * library
    * [Business Models](.\library\Business Models)
    * [Digital Health](.\library\Digital Health)
-     * Artificial Intelligence
+     * [Artificial Intelligence](.\library\Digital Health\Artificial Intelligence)
        * [Agents](.\library\Digital Health\Artificial Intelligence\Agents)
        * [AI Ethic](.\library\Digital Health\Artificial Intelligence\AI Ethic)
        * [Decision Support System](.\library\Digital Health\Artificial Intelligence\Decision Support System)
