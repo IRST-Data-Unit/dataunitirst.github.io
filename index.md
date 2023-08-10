@@ -1,6 +1,7 @@
  * academy
    * Case Study
    * Theory
+     * [Medical LLM](.\academy\Theory\Medical LLM)
  * demo
    * [AugmentedRealityTest](.\demo\AugmentedRealityTest)
  * library
