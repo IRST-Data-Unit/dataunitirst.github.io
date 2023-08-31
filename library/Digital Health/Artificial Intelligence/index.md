@@ -17,3 +17,9 @@ This document provides valuable insights into the transformative potential of AI
 ✍🏻 Lekadir, K., Quaglio, G., Tselioudis Garmendia, A., Gallin, C. (2022). Artificial Intelligence in Healthcare: Benefits, Challenges, and Future Directions. EPRS | European Parliamentary Research Service
 Scientific Foresight Unit (STOA) PE 729.512 – June 2022.
 DOI: 10.2861/568473
+
+---
+
+# [Decision Tree for the Responsible Application of Artificial Intelligence (v1.0) (1).pdf](Decision%20Tree%20for%20the%20Responsible%20Application%20of%20Artificial%20Intelligence%20%28v1.0%29%20%281%29.pdf)
+
+# [The state of AI in 2023 Generative AI's breakout year.pdf](The%20state%20of%20AI%20in%202023%20Generative%20AI%27s%20breakout%20year.pdf)
