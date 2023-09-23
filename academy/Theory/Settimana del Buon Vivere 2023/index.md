@@ -34,20 +34,27 @@ elencare alcune azioni rilevanti.
 - La letteratura scientifica e le politiche europee suggeriscono il rispetto dei principi FAIR (Findable,
   Accessible, Interoperable, Reusable).
 
-![Principi FAIR spiegati ad un bambino da ChatGPT](FAIR4child.png)
-![Principi FAIR spiegati ad un paziente oncologico da ChatGPT](FAIR4Cancer.png)
-
-    Esempio di FAIR: il caso Moderna durante il Covid-19
-    1. All'inizio della seconda settimana di Gennaio 2020, alcuni ricercatori cinesi a Wuhan hanno annunciato di aver isolato e sequenziato l'intero virus.
-    2. L'11 Gennaio, il DNA sequenziato è stato pubblicato su virological.org
-    3. Due giorni dopo, il 13 Gennaio, l'Azienda Farmaceutica Moderna aveva completato la progettazione di un vaccino candidato per il virus.
-    4. Il 7 febbraio è stata avviata la fase 1
-    5. Il 24 febbraio sono stati completati i test di controllo di qualità. Il vaccino è stato inviato al National Instite of Health per la preparazione dei test preliminari (Trial clinici di fase 1) su alcuni volontari di Seattle, Washington.
-    Stéphan Bancel, CEO di Moderna, ha dichiarato: "Abbiamo fatto tutto questo iun due mesi. Fino ad oggi, chi aveva impiegato meno tempo per queste attività, aveva speso 20 mesi, per la SARS. Una riduzione di tempo del 90%'
-    
-    Iansiti M, Lakhani K, Mayer H, Herman K. Moderna (A). Harvard Business School case report 9-621-032. July 13, 2021.
-
-    I principi FAIR hanno giocato il loro ruolo in questa vicenda.
+> ![Principi FAIR spiegati ad un bambino da ChatGPT](FAIR4child.png)
+> ![Principi FAIR spiegati ad un paziente oncologico da ChatGPT](FAIR4Cancer.png)
+>
+> Esempio di FAIR: il caso Moderna durante il Covid-19
+> 1. All'inizio della seconda settimana di Gennaio 2020, alcuni ricercatori cinesi a Wuhan hanno annunciato di aver
+     isolato e sequenziato l'intero virus.
+> 2. L'11 Gennaio, il DNA sequenziato è stato pubblicato su virological.org
+> 3. Due giorni dopo, il 13 Gennaio, l'Azienda Farmaceutica Moderna aveva completato la progettazione di un vaccino
+     candidato per il virus.
+> 4. Il 7 febbraio è stata avviata la fase 1
+> 5. Il 24 febbraio sono stati completati i test di controllo di qualità. Il vaccino è stato inviato al National Instite
+     of Health per la preparazione dei test preliminari (Trial clinici di fase 1) su alcuni volontari di Seattle,
+     Washington.
+>
+> Stéphan Bancel, CEO di Moderna, ha dichiarato: "Abbiamo fatto tutto questo iun due mesi. Fino ad oggi, chi aveva
+> impiegato meno tempo per queste attività, aveva speso 20 mesi, per la SARS. Una riduzione di tempo del 90%'
+>
+> *Fonte: Iansiti M, Lakhani K, Mayer H, Herman K. Moderna (A). Harvard Business School case report 9-621-032. July 13,
+2021.*
+>
+> I principi FAIR hanno giocato il loro ruolo in questa vicenda.
 
 ### 3. Aderire alla regolamentazione sull'Intelligenza Artificiale e applicare misure di sicurezza e rispetto della privacy
 
@@ -56,29 +63,29 @@ elencare alcune azioni rilevanti.
    artificiale in vari settori, compreso il settore sanitario. L'AI Act classifica i sistemi di decisione automatica in
    base al rischio per gli utenti e definisce i requisiti da rispettare per il loro sviluppo.
 
-       L'AI Act mira a:
-        - Classificare e Regolamentare i Sistemi di Intelligenza Artificiale: I sistemi di intelligenza
-          artificiale vengono analizzati e classificati in base al rischio che comportano per gli utenti. Il provvedimento
-          introduce tre principali categorie: pratiche vietate, sistemi ad alto rischio e altri sistemi di intelligenza
-          artificiale. Questa classificazione determina il livello di regolamentazione per ciascun tipo di applicazione di
-          intelligenza artificiale.
-        - Proteggere i Diritti Umani e la Sicurezza: Il "AI Act" include disposizioni per proteggere i diritti fondamentali,
-          come la privacy e la non discriminazione, e per garantire la sicurezza e la trasparenza dei sistemi di
-          intelligenza artificiale.
-        - Istituire un Consiglio Europeo per l'Intelligenza Artificiale: Il provvedimento propone la creazione di un
-          Consiglio Europeo per l'Intelligenza Artificiale al fine di promuovere la cooperazione nazionale e garantire il
-          rispetto del regolamento.
-        - Influenzare gli Standard Globali sull'Intelligenza Artificiale: Similmente al Regolamento Generale sulla
-          Protezione dei Dati (GDPR) dell'Unione Europea, il "AI Act" ha il potenziale per diventare uno standard globale
-          per la regolamentazione dell'intelligenza artificiale. Il suo impatto si fa già sentire al di fuori dell'Europa,
-          con paesi come il Brasile che approvano leggi sull'intelligenza artificiale ispirate all'approccio dell'UE.
-    
-       Nel contesto sanitario, l'AI Act mira a garantire l'uso responsabile dei sistemi di intelligenza artificiale
-       per la diagnosi medica, la pianificazione dei trattamenti, il monitoraggio dei pazienti e altre applicazioni.
-       Fornendo un chiaro quadro normativo, il provvedimento cerca di promuovere lo sviluppo di soluzioni di intelligenza
-       artificiale affidabili e orientate all'essere umano che apportino benefici ai pazienti e agli operatori sanitari.
-       Rispetto della privacy: sviluppo di nuove soluzioni, tra cui il "Privacy Budget", l'anonimizzazione, il "Federated
-       Learning" (con attenzione ai nuovi tipi di attacchi) e l'uso di dati sintetici.
+> L'AI Act mira a:
+> - Classificare e Regolamentare i Sistemi di Intelligenza Artificiale: I sistemi di intelligenza
+    artificiale vengono analizzati e classificati in base al rischio che comportano per gli utenti. Il provvedimento
+    introduce tre principali categorie: pratiche vietate, sistemi ad alto rischio e altri sistemi di intelligenza
+    artificiale. Questa classificazione determina il livello di regolamentazione per ciascun tipo di applicazione di
+    intelligenza artificiale.
+> - Proteggere i Diritti Umani e la Sicurezza: Il "AI Act" include disposizioni per proteggere i diritti fondamentali,
+    come la privacy e la non discriminazione, e per garantire la sicurezza e la trasparenza dei sistemi di
+    intelligenza artificiale.
+> - Istituire un Consiglio Europeo per l'Intelligenza Artificiale: Il provvedimento propone la creazione di un
+    Consiglio Europeo per l'Intelligenza Artificiale al fine di promuovere la cooperazione nazionale e garantire il
+    rispetto del regolamento.
+> - Influenzare gli Standard Globali sull'Intelligenza Artificiale: Similmente al Regolamento Generale sulla
+    Protezione dei Dati (GDPR) dell'Unione Europea, il "AI Act" ha il potenziale per diventare uno standard globale
+    per la regolamentazione dell'intelligenza artificiale. Il suo impatto si fa già sentire al di fuori dell'Europa,
+    con paesi come il Brasile che approvano leggi sull'intelligenza artificiale ispirate all'approccio dell'UE.
+>
+> Nel contesto sanitario, l'AI Act mira a garantire l'uso responsabile dei sistemi di intelligenza artificiale
+> per la diagnosi medica, la pianificazione dei trattamenti, il monitoraggio dei pazienti e altre applicazioni.
+> Fornendo un chiaro quadro normativo, il provvedimento cerca di promuovere lo sviluppo di soluzioni di intelligenza
+> artificiale affidabili e orientate all'essere umano che apportino benefici ai pazienti e agli operatori sanitari.
+> Rispetto della privacy: sviluppo di nuove soluzioni, tra cui il "Privacy Budget", l'anonimizzazione, il "Federated
+> Learning" (con attenzione ai nuovi tipi di attacchi) e l'uso di dati sintetici.
 
 - Nuove soluzioni per supportare il rispetto della privacy
     - Anonimizzazione dei dati
