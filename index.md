@@ -4,7 +4,7 @@
      * [AIForClinicalTrial](.\academy\Theory\AIForClinicalTrial)
      * [Cartella Clinica Elettronica e AI](.\academy\Theory\Cartella Clinica Elettronica e AI)
      * [Medical LLM](.\academy\Theory\Medical LLM)
-     * Settimana del Buon Vivere 2023
+     * [Settimana del Buon Vivere 2023](.\academy\Theory\Settimana del Buon Vivere 2023)
  * demo
    * [AugmentedRealityTest](.\demo\AugmentedRealityTest)
  * library
